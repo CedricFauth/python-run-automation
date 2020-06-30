@@ -1,6 +1,6 @@
 # python-run-automation
 
-Execute a command by using keyboard shortcuts \\
+Execute a command by using keyboard shortcuts \
 Download and run:
 
 Once:
